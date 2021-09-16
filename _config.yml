@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Lsanghyeok"
     - label: "Linkein"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217/"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
