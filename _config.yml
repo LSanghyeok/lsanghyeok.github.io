@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "Sanghyeok's Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Sometimes.."# site tagline that appears below site title in masthead
 name                     : "Sanghyeok Lee"
-description              : "Sometimes.."
+description              : "Hello world!"
 url                      : "https://lsanghyeok.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : /about
 repository               : "LSanghyeok/lsanghyeok.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
