@@ -113,9 +113,9 @@ author:
   location         : "Republic of Korea"
   email            : "cat0626@korea.ac.kr"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:cat0626@korea.ac.kr
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: mailto:cat0626@korea.ac.kr
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
