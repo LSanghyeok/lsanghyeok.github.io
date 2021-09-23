@@ -24,4 +24,4 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 
 # Publications
 **Point Cloud Augmentation with Weighted Local Transformations**, International Conference on Computer Vision (ICCV), 2021 ([arxiv](), [code](https://github.com/mlvlab/PointWOLF))
-Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
+  Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
