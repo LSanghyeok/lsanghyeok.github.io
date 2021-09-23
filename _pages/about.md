@@ -21,3 +21,7 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 + GPA : 4.42 / 4.50 (99.1 / 100)
 + Teaching Fellow : COSE474(Deep Learning, 2020)
 + Teaching Assitant : COSE361(Artificial Intelligence, 2021)
+
+# Publications
+## Point Cloud Augmentation with Weighted Local Transformations
+Sihyeon Kim*, Sanghyeok Lee*, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
