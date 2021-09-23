@@ -1,9 +1,9 @@
 ---
 permalink: /about/
-title: "About me"
+title: "Profile"
 ---
 
-# Hello!
+# About me
 I am M.S. student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
 Github : https://github.com/Lsanghyeok  
