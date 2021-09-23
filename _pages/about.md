@@ -24,4 +24,4 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 
 # Publications
 ## Point Cloud Augmentation with Weighted Local Transformations
-Sihyeon Kim*, <u>Sanghyeok Lee*</u>, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
+Sihyeon Kim*, \<u>Sanghyeok Lee*</u>, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
