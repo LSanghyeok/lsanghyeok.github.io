@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "이상혁(Sanghyeok Lee)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Main.jpg"
   bio              : "대학원생이에요...<br>자기개발을 위한 논문 정리 및 포트폴리오 블로그 입니다.<br>(I'm grduate student...<br>This Blog is for paper reviews & portfolio)"
   location         : "Republic of Korea"
   email            : "cat0626@korea.ac.kr"
