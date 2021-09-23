@@ -24,6 +24,6 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 + Teaching Assitant : COSE361(Artificial Intelligence, 2021)
 
 # Publications
-**Point Cloud Augmentation with Weighted Local Transformations**, International Conference on Computer Vision (ICCV), 2021 ([arxiv](), [code](https://github.com/mlvlab/PointWOLF))
+**Point Cloud Augmentation with Weighted Local Transformations**, International Conference on Computer Vision (ICCV), 2021 ([arxiv](), [code](https://github.com/mlvlab/PointWOLF){:target="_blank"})
 ![PointWOLF](/assets/images/PointWOLF.jpg){: .align-center .open-new width="50%" height="50%"}
 + Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
