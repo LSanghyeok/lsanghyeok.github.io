@@ -4,6 +4,7 @@ title: "Profile"
 ---
 
 # About me
+---
 I am M.S. student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
 Pages : [Github](https://github.com/Lsanghyeok){:target="_blank"}  [Linkedin](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
@@ -13,6 +14,7 @@ My resarch instersts is deep learning in computer vision including 2D images and
 Keyword : Deep Learning, Computer Vision, Point Cloud Processing
 
 # Education
+---
 __Korea University__  
 Bachelor of Science in Computer Science (Mar 2016 - Sep 2020)
 + GPA : 4.02/4.50(94.5/100)
@@ -24,6 +26,9 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 + Teaching Assitant : COSE361(Artificial Intelligence, 2021)
 
 # Publications
+---
 **Point Cloud Augmentation with Weighted Local Transformations**, International Conference on Computer Vision (ICCV), 2021 ([arxiv](), [code](https://github.com/mlvlab/PointWOLF){:target="_blank"})
 ![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="80%" height="80%"}
 + Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
+
+# Experience
