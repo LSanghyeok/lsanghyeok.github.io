@@ -15,6 +15,7 @@ Keyword : Deep Learning, Computer Vision, Point Cloud Processing
 ### Korea University
 Bachelor of Science in Computer Science (Mar 2016 - Sep 2020)
 + GPA : 4.02/4.50(94.5/100)
+
 ### Korea University
 Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 + GPA : 4.42 / 4.50 (99.1 / 100)
