@@ -12,6 +12,6 @@ My resarch instersts is deep learning in computer vision including 2D images and
 Keyword : Deep Learning, Computer Vision, Point Cloud Processing
 
 # Education
-## Korea University
-### Bachelor of Science in Computer Science (Mar 2016 - Sep 2020)
+### Korea University
+Bachelor of Science in Computer Science (Mar 2016 - Sep 2020)
 + GPA : 4.02/4.50(94.5/100)
