@@ -1,9 +1,8 @@
 ---
 title: GitHub 블로그를 시작해보자
 categories:
-- Papers
-tags:
 - Notes
+tags:
 toc: true
 toc_sticky: true
 toc_label: On this Page
