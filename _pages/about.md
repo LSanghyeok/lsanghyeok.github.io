@@ -36,4 +36,11 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 **MLV LAB** - Graduate Student Researcher (Sep 2020 - Present)  
 + Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim  
 + **Point Cloud Augmentation with Weighted Local Transformations** got accepted to ICCV 2021  
-+ Homepage : [https://mlv.korea.ac.kr/](https://mlv.korea.ac.kr/)
++ Homepage : [https://mlv.korea.ac.kr/](https://mlv.korea.ac.kr/)  
+  
+**3D Automatic Orthodontics** - Research Project (Feb 2020 - Nov 2021)
++ As a project leader, I developed orthodontics software that determines which orthodontic treatment is right for given 3d dental model
++ I implemented 3D tooth classification, detection, and registration models for automatic orthodontics.
++ Project Client : [https://mylign.co.kr/](https://mylign.co.kr/)
++ **<small>keywords</small> : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration**
+
