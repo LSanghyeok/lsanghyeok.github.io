@@ -300,7 +300,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true # true
       share: true
       related: true
   # _pages
@@ -311,7 +311,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: #false
+      comments: true #false
       share: true
       related: true
       toc: true
