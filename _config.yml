@@ -20,7 +20,7 @@ title                    : "Sanghyeok's Blog"
 title_separator          : "-"
 subtitle                 : "Sometimes.."# site tagline that appears below site title in masthead
 name                     : "Sanghyeok Lee"
-description              : "Hello world!"
+description              : "대학원생이에요...자기개발을 위한 논문 정리 및 포트폴리오 블로그 입니다.(I'm grduate student...This Blog is for paper reviews & portfolio)"
 url                      : "https://lsanghyeok.github.io"
 baseurl                  : #"/base"
 repository               : "LSanghyeok/lsanghyeok.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
