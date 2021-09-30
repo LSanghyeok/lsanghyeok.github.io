@@ -4,7 +4,7 @@ title: "About me:
 ---
 
 ---
-I am M.S. student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim.  
+Hello! I am M.S. student in [Department of Computer Sciences at Korea Univ](https://info.korea.ac.kr/info/index.do){:target="_blank"} advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
 Pages : [Github](https://github.com/Lsanghyeok){:target="_blank"}  [Linkedin](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
 Affiliation : [MLV LAB](https://mlv.korea.ac.kr/)
