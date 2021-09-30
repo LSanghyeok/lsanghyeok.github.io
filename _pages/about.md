@@ -30,7 +30,7 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 International Conference on Computer Vision, *ICCV 2021 , (Acceptance rate : 25.9%)* 
 ![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}
 + Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
-+ code : [https://github.com/mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF){:target="_blank"}
++ Code is available at [https://github.com/mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF){:target="_blank"}
 
 # Experience
 ---
