@@ -1,9 +1,8 @@
 ---
 permalink: /about/
-title: "Profile"
+title: "About me:
 ---
 
-# About me
 ---
 I am M.S. student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
@@ -27,7 +26,8 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 
 # Publications
 ---
-[**Point Cloud Augmentation with Weighted Local Transformations**](), International Conference on Computer Vision, *ICCV 2021 , (Acceptance rate : 25.9%)* 
+[**Point Cloud Augmentation with Weighted Local Transformations**]()  
+International Conference on Computer Vision, *ICCV 2021 , (Acceptance rate : 25.9%)* 
 ![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}
 + Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
 + code : [https://github.com/mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF){:target="_blank"}
@@ -42,5 +42,5 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 + As a project leader, I developed orthodontics software that determines which orthodontic treatment is right for given 3d dental model
 + I implemented 3D tooth classification, detection, and registration models for automatic orthodontics.
 + Project Client : [https://mylign.co.kr/](https://mylign.co.kr/)
-+ **<small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>**
++ <small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>
 
