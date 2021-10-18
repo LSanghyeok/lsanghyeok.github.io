@@ -28,7 +28,7 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 ---
 [**Point Cloud Augmentation with Weighted Local Transformations**](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.pdf)  
 International Conference on Computer Vision, *ICCV 2021 , (Acceptance rate : 25.9%)* 
-![PointWOLF](/assets/images/PointWOLF.pdf){: .open-new width="100%" height="100%"}
+![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}
 + Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
 + Code is available at [https://github.com/mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF){:target="_blank"}
 
