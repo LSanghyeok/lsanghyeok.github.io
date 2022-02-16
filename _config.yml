@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "이상혁(Sanghyeok Lee)"
   avatar           : "/assets/images/Main.jpg"
-  bio              : "대학원생이에요...<br>자기개발을 위한 논문 정리 및 포트폴리오 블로그 입니다.<br>(I'm grduate student...<br>This Blog is for paper reviews & portfolio)"
+  bio              : "자기개발을 위한 논문 정리 및 포트폴리오 블로그<br>(This Blog is for paper reviews & portfolio)"
   location         : "Republic of Korea"
   email            : "cat0626@korea.ac.kr"
   links:
@@ -266,9 +266,9 @@ whitelist:
 #category_archive:
 #  type: liquid
 #  path: /categories/
-#tag_archive:
-#  type: liquid
-#  path: /tags/
+tag_archive:
+  type: liquid
+  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
