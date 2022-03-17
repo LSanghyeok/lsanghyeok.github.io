@@ -1,5 +1,5 @@
 ---
-title: 논문 정리 및 포트폴리오 블로그
+title: 개인 블로그
 categories:
 - Notes
 tags:
@@ -9,7 +9,7 @@ toc_label: On this Page
 last_modified_at: 2021-09-23T02:47:33+08:00
 ---
 
-# Hello world!
-평소에 블로그의 필요성을 못 느꼈는데 선배와 동기들이 자기소개용 CV를 작성하는것을 보며 대학원생활을 기록할만한 공간이 필요하다고 느껴 앞으로는 논문정리와 Portfolio기록을 모아두기 위해 블로그를 시작해 보려한다.  
+# 
+Portfolio기록을 모아두기 위한 개인 블로그 입니다.  
 
-블로그를 만드는 과정은 [https://devinlife.com/howto/](https://devinlife.com/howto/){:target="_blank"}의 하우투 시리즈와 [https://honbabzone.com/jekyll/start-gitHubBlog/](https://honbabzone.com/jekyll/start-gitHubBlog/){:target="_blank"}의 블로그 시작하기 시리즈를 보고 많은 도움이 되었다. 두 블로그 모두 Jekyll이나 루비등 이것저것 설치하라고 했지만 원리도 모르고 귀찮기도 해서 당분간은 별도의 프로그램 설치없이 git repo에서만 포스트 작성을 진행할 예정??
+블로그를 만드는 과정은 [https://devinlife.com/howto/](https://devinlife.com/howto/){:target="_blank"}의 하우투 시리즈와 [https://honbabzone.com/jekyll/start-gitHubBlog/](https://honbabzone.com/jekyll/start-gitHubBlog/){:target="_blank"}의 블로그 시작하기 시리즈를 보고 진행하였습니다.
