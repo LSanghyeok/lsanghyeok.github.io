@@ -28,7 +28,7 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 
 # Publications
 ---
-## [**Point Cloud Augmentation with Weighted Local Transformations (ICCV 2021, Acceptance rate : 25.9%) **](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html)  
+## [Point Cloud Augmentation with Weighted Local Transformations (ICCV 2021, Acceptance rate : 25.9%)](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html)  
 International Conference on Computer Vision 
 ![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}
 + Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
@@ -36,11 +36,11 @@ International Conference on Computer Vision
 
 # Experience
 ---
-## **MLV LAB** - Graduate Student Researcher (Sep 2020 - Present)  
+## MLV LAB - Graduate Student Researcher (Sep 2020 - Present)  
 + Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim  
 + Homepage : [https://mlv.korea.ac.kr/](https://mlv.korea.ac.kr/)  
   
-## **3D Automatic Orthodontics** - Research Project (Feb 2020 - Nov 2021)
+## 3D Automatic Orthodontics - Research Project (Feb 2020 - Nov 2021)
 + As a project leader, I developed orthodontics software that determines which orthodontic treatment is right for given 3d dental model
 + I implemented 3D tooth classification, detection, and registration models for automatic orthodontics.
 + Project Client : [https://mylign.co.kr/](https://mylign.co.kr/)
