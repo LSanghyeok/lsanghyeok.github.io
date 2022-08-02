@@ -4,6 +4,7 @@ title: "About me"
 ---
 
 ---
+![photo](/assets/images/PointWOLF.jpg){: .open-new width="25%" height="25%"}
 Hello! I am M.S. student in [Department of Computer Sciences at Korea Univ](https://info.korea.ac.kr/info/index.do){:target="_blank"} advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
 Pages : [Github](https://github.com/Lsanghyeok){:target="_blank"}  [Linkedin](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
@@ -26,8 +27,8 @@ Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 
 # Publications
 ---
-[**Point Cloud Augmentation with Weighted Local Transformations**](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html)  
-International Conference on Computer Vision, *ICCV 2021 , (Acceptance rate : 25.9%)* 
+[**Point Cloud Augmentation with Weighted Local Transformations (ICCV 2021, Acceptance rate : 25.9%) **](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html)  
+International Conference on Computer Vision 
 ![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}
 + Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
 + Code is available at [https://github.com/mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF){:target="_blank"}
