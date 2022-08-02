@@ -4,7 +4,7 @@ author_profile: true
 --- -->
 
 ---
-layout : about
+layout : single
 title: "About me"
 ---
 
