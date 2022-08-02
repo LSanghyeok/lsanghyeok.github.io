@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Sanghyeok's Blog"
+title                    : "Sanghyeok Lee"
 title_separator          : "-"
-subtitle                 : "Sometimes.."# site tagline that appears below site title in masthead
+subtitle                 : "Hi!"# site tagline that appears below site title in masthead
 name                     : "Sanghyeok Lee"
-description              : "논문 리뷰 및 포트폴리오 블로그.(This Blog is for paper reviews & portfolio)"
+description              : "About me"
 url                      : "https://lsanghyeok.github.io"
 baseurl                  : #"/base"
 repository               : "LSanghyeok/lsanghyeok.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Sanghyeok's Blog" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Sanghyeok Lee" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "이상혁(Sanghyeok Lee)"
+  name             : "이상혁"
   avatar           : "/assets/images/Main.jpg"
-  bio              : "자기개발을 위한 논문 정리 및 포트폴리오 블로그<br>(This Blog is for paper reviews & portfolio)"
+  bio              : "About me"
   location         : "Republic of Korea"
   email            : "cat0626@korea.ac.kr"
   links:
