@@ -4,7 +4,7 @@ title: "About me"
 ---
 
 ---
-![photo](/assets/images/KakaoTalk_20220802_223215356.jpg){: .open-new width="50%" height="50%"}
+![photo](/assets/images/KakaoTalk_20220802_223215356.jpg){: .open-new width="30%" height="30%"}
 
 Hello! I am M.S. student in [Department of Computer Sciences at Korea Univ](https://info.korea.ac.kr/info/index.do){:target="_blank"} advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
