@@ -4,7 +4,7 @@ author_profile: true
 --- -->
 
 ---
-permalink : /about/
+layout : about
 title: "About me"
 ---
 
