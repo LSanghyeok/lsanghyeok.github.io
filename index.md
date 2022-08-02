@@ -9,7 +9,7 @@ toc_sticky: true
 ---
 ![photo](/assets/images/KakaoTalk_20220802_223215356.jpg){: .open-new width="30%" height="30%"}
 
-Hello! I am M.S. student in [Department of Computer Sciences at Korea Univ](https://info.korea.ac.kr/info/index.do){:target="_blank"} advised by Hyunwoo J Kim.  
+Hello! I am Ph.D student in [Department of Computer Sciences at Korea Univ](https://info.korea.ac.kr/info/index.do){:target="_blank"} advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
 Pages : [Github](https://github.com/Lsanghyeok){:target="_blank"}  [Linkedin](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
 Affiliation : [MLV LAB](https://mlv.korea.ac.kr/)
@@ -19,11 +19,11 @@ Keyword : Deep Learning, Computer Vision, Point Cloud Processing
 
 # Education
 ---
-## __Korea University__  
+## Korea University (B.S)
 Bachelor of Science in Computer Science (Mar 2016 - Sep 2020)
 + GPA : 4.02/4.50(94.5/100)
 
-## __Korea University__  
+## Korea University (Ph.D) 
 Master/Ph.D integrated student in Computer Science (Sep 2020 - Present)
 + GPA : 4.37 / 4.50 (98.5 / 100)
 + Teaching Fellow : COSE474(Deep Learning, 2020)
