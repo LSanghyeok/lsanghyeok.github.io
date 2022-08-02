@@ -2,6 +2,8 @@
 layout : single
 title: "About me"
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 
 ---
