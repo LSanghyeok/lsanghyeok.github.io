@@ -4,7 +4,8 @@ title: "About me"
 ---
 
 ---
-![photo](/assets/images/PointWOLF.jpg){: .open-new width="25%" height="25%"}
+![photo](/assets/images/KakaoTalk_20220802_223215356.jpg){: .open-new width="50%" height="50%"}
+
 Hello! I am M.S. student in [Department of Computer Sciences at Korea Univ](https://info.korea.ac.kr/info/index.do){:target="_blank"} advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
 Pages : [Github](https://github.com/Lsanghyeok){:target="_blank"}  [Linkedin](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
