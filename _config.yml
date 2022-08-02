@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Sanghyeok Lee"
 title_separator          : "-"
-subtitle                 : "Hi!"# site tagline that appears below site title in masthead
+subtitle                 : "Ph.D. student at Korea Univ."# site tagline that appears below site title in masthead
 name                     : "Sanghyeok Lee"
-description              : "About me"
+description              : "About"
 url                      : "https://lsanghyeok.github.io"
 baseurl                  : #"/base"
 repository               : "LSanghyeok/lsanghyeok.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "이상혁"
   avatar           : "/assets/images/Main.jpg"
-  bio              : "About me"
+  bio              : "Sanghyeok Lee"
   location         : "Republic of Korea"
   email            : "cat0626@korea.ac.kr"
   links:
