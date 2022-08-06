@@ -19,11 +19,11 @@ Keyword : Deep Learning, Computer Vision, Point Cloud Processing
 
 # Education
 ---
-## B.S (Mar 2016 - Sep 2020)
+## B.S. (Mar 2016 - Sep 2020)
 Bachelor of Science in Computer Science at Korea University 
 + GPA : 4.02/4.50(94.5/100)
 
-## Ph.D (Sep 2020 - Present)
+## Ph.D. (Sep 2020 - Present)
 Ph.D student in Computer Science at Korea University.
 + GPA : 4.37 / 4.50 (98.5 / 100)
 + Teaching Fellow : COSE474(Deep Learning, 2020)
