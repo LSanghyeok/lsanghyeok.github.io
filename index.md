@@ -38,7 +38,7 @@ Ph.D student in Computer Science at Korea University.
 + Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
 + The code is available at [https://github.com/mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF){:target="_blank"}
 
-## [SageMix: Saliency-Guided Mixup for Point Clouds (NeurIPS 2022)]  
+## [SageMix: Saliency-Guided Mixup for Point Clouds (NeurIPS 2022)]()
 + 2022 Conference on Neural Information Processing Systems
 + Acceptance rate : 25.6%
 + (to appear)
