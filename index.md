@@ -36,7 +36,14 @@ Ph.D student in Computer Science at Korea University.
 + Acceptance rate : 25.9%
 ![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}
 + Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
-+ Code is available at [https://github.com/mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF){:target="_blank"}
++ The code is available at [https://github.com/mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF){:target="_blank"}
+
+## [SageMix: Saliency-Guided Mixup for Point Clouds (NeurIPS 2022)]  
++ 2022 Conference on Neural Information Processing Systems
++ Acceptance rate : 25.6%
++ (to appear)
++ **Sanghyeok Lee\***, Minkyu Jeon\*, Injae Kim, Yunyang Xiong, Hyunwoo J. Kim (*: equal contribution)
++ The code and models of SageMix will come soon.
 
 # Experience
 ---
