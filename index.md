@@ -9,10 +9,10 @@ toc_sticky: true
 ---
 ![photo](/assets/images/KakaoTalk_20220802_223215356.jpg){: .open-new width="30%" height="30%"}
 
-Hello! I am Ph.D student in Department of Computer Sciences at <U>Korea</U> Univ advised by Hyunwoo J Kim.  
+Hello! I am Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
-Pages : [Github](https://github.com/Lsanghyeok){:target="_blank"}  [Linkedin](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
-Affiliation : [MLV LAB](https://mlv.korea.ac.kr/)
+Pages : [<U>Github</U>](https://github.com/Lsanghyeok){:target="_blank"}  [<U>Linkedin</U>](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
+Affiliation : [<U>MLV LAB</U>](https://mlv.korea.ac.kr/)
 
 My resarch instersts is deep learning in computer vision including 2D images and 3D structured data. These days, I'm researching on point cloud data processing.  
 Keyword : Deep Learning, Computer Vision, Point Cloud Processing
@@ -31,28 +31,28 @@ Ph.D student in Computer Science at Korea University.
 
 # Publications
 ---
-## [[02] SageMix: Saliency-Guided Mixup for Point Clouds]()
+## [[02] <U>SageMix: Saliency-Guided Mixup for Point Clouds</U>]()
 ### Conference on Neural Information Processing Systems (NeurIPS), 2022 (Acceptance rate : 25.6%)
 + (to appear)
 + **Sanghyeok Lee\***, Minkyu Jeon\*, Injae Kim, Yunyang Xiong, Hyunwoo J. Kim (*: equal contribution)
 + The code and models of SageMix will come soon.
 
-## [[01] Point Cloud Augmentation with Weighted Local Transformations](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html)  
+## [[01] <U>Point Cloud Augmentation with Weighted Local Transformations</U>](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html)  
 ### International Conference on Computer Vision (ICCV), 2021 (Acceptance rate : 25.9%)
 [![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg)
 + Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
-+ The code is available at [https://github.com/mlvlab/PointWOLF](https://github.com/mlvlab/PointWOLF){:target="_blank"}
++ The code is available at [<U>https://github.com/mlvlab/PointWOLF</U>](https://github.com/mlvlab/PointWOLF){:target="_blank"}
 
 # Experience
 ---
 ## MLV LAB 
 + Graduate Student Researcher (Sep 2020 - Present)  
 + Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim  
-+ Homepage : [https://mlv.korea.ac.kr/](https://mlv.korea.ac.kr/)  
++ Homepage : [<U>https://mlv.korea.ac.kr/</U>](https://mlv.korea.ac.kr/)  
   
 ## 3D Automatic Orthodontics 
 + Research Project (Feb 2020 - Nov 2021)
 + As a project leader, I developed orthodontics software that determines personal treatment for a given 3d dental model.
 + I implemented 3D tooth classification, detection, and registration models for automatic orthodontics.
-+ Project Client : [https://mylign.co.kr/](https://mylign.co.kr/)
++ Project Client : [<U>https://mylign.co.kr/</U>](https://mylign.co.kr/)
 + <small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>
