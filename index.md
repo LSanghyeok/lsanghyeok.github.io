@@ -32,13 +32,13 @@ Ph.D student in Computer Science at Korea University.
 # Publications
 ---
 ## [[02] SageMix: Saliency-Guided Mixup for Point Clouds]()
-### 2022 Conference on Neural Information Processing Systems (NeurIPS 2022, Acceptance rate : 25.6%)
+### 2022 Conference on Neural Information Processing Systems (NeurIPS, Acceptance rate : 25.6%)
 + (to appear)
 + **Sanghyeok Lee\***, Minkyu Jeon\*, Injae Kim, Yunyang Xiong, Hyunwoo J. Kim (*: equal contribution)
 + The code and models of SageMix will come soon.
 
-## [[01] Point Cloud Augmentation with Weighted Local Transformations (ICCV 2021, Acceptance rate : 25.9%)](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html)  
-+ 2021 International Conference on Computer Vision
+## [[01] Point Cloud Augmentation with Weighted Local Transformations](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html)  
+### 2021 International Conference on Computer Vision (ICCV, Acceptance rate : 25.9%)
 [![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg)
 + Sihyeon Kim\*, **Sanghyeok Lee\***, Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim (*: equal contribution)
 + The code is available at [__https://github.com/mlvlab/PointWOLF__](https://github.com/mlvlab/PointWOLF){:target="_blank"}
