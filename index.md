@@ -9,7 +9,7 @@ toc_sticky: true
 ---
 ![photo](/assets/images/KakaoTalk_20220802_223215356.jpg){: .open-new width="30%" height="30%"}
 
-Hello! I am Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim.  
+Hello! I am Ph.D student in Department of Computer Sciences at <U>Korea</U> Univ advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
 Pages : [Github](https://github.com/Lsanghyeok){:target="_blank"}  [Linkedin](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
 Affiliation : [MLV LAB](https://mlv.korea.ac.kr/)
