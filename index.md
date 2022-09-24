@@ -31,8 +31,8 @@ Ph.D student in Computer Science at Korea University.
 
 # Publications
 ---
-## [[02] SageMix: Saliency-Guided Mixup for Point Clouds (NeurIPS 2022, Acceptance rate : 25.6%)]()
-+ 2022 Conference on Neural Information Processing Systems
+## [[02] SageMix: Saliency-Guided Mixup for Point Clouds]()
+### 2022 Conference on Neural Information Processing Systems (NeurIPS 2022, Acceptance rate : 25.6%)
 + (to appear)
 + **Sanghyeok Lee\***, Minkyu Jeon\*, Injae Kim, Yunyang Xiong, Hyunwoo J. Kim (*: equal contribution)
 + The code and models of SageMix will come soon.
