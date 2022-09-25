@@ -16,6 +16,7 @@ Affiliation : [[<span style="color:#964B00"><U>MLV LAB</U></span>](https://mlv.k
 
 My resarch instersts is deep learning in computer vision including 2D images and 3D structured data. These days, I'm researching on point cloud data processing.  
 Keyword : Deep Learning, Computer Vision, Point Cloud Processing
+
 ---
 # Education
 ## B.S. (Mar 2016 - Sep 2020)
