@@ -11,7 +11,7 @@ toc_sticky: true
 
 Hello! I am Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
-Pages : [<U>Github</U>](https://github.com/Lsanghyeok){:target="_blank"}  [<U>Linkedin</U>](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
+Pages : [<span style="color:#964B00"><U>Github</U></span>](https://github.com/Lsanghyeok){:target="_blank"}  [<U>Linkedin</U>](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
 Affiliation : [<U>MLV LAB</U>](https://mlv.korea.ac.kr/)
 
 My resarch instersts is deep learning in computer vision including 2D images and 3D structured data. These days, I'm researching on point cloud data processing.  
@@ -41,7 +41,7 @@ Ph.D student in Computer Science at Korea University.
 ### International Conference on Computer Vision (ICCV), 2021 (Acceptance rate : 25.9%)
 [![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg)
 + **<span style="color:#AAAAAA">Sihyeon Kim\*</span>, Sanghyeok Lee\*, <span style="color:#AAAAAA">Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim</span>** (*: equal contribution)
-+ The code is available at [<U>https://github.com/mlvlab/PointWOLF</U>](https://github.com/mlvlab/PointWOLF){:target="_blank"}
++ [<U>Code</U>](https://github.com/mlvlab/PointWOLF){:target="_blank"} [<U>Arxiv</U>](https://arxiv.org/abs/2110.05379){:target="_blank"}
 
 # Experience
 ---
