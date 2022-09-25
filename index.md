@@ -41,7 +41,7 @@ Ph.D student in Computer Science at Korea University.
 ### International Conference on Computer Vision (ICCV), 2021 (Acceptance rate : 25.9%)
 [![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg)
 + **<span style="color:#AAAAAA">Sihyeon Kim\*</span>, Sanghyeok Lee\*, <span style="color:#AAAAAA">Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim</span>** (*: equal contribution)
-+ [<U>Code</U>](https://github.com/mlvlab/PointWOLF){:target="_blank"} [<U>Arxiv</U>](https://arxiv.org/abs/2110.05379){:target="_blank"}
++ [[<U>Code</U>](https://github.com/mlvlab/PointWOLF){:target="_blank"}] [[<U>Arxiv</U>](https://arxiv.org/abs/2110.05379){:target="_blank"}]
 
 # Experience
 ---
