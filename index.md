@@ -51,5 +51,5 @@ Ph.D student in Computer Science at Korea University.
 + Research Project (Feb 2020 - Nov 2021)
 + As a project leader, I developed orthodontics software that determines personal treatment for a given 3d dental model.
 + I implemented 3D tooth classification, detection, and registration models for automatic orthodontics.
-+ [[<span style="color:#964B00"><U>Project Client</U></span>](https://mylign.co.kr/)]
++ [[<span style="color:#964B00"><U>Project Client</U></span>](https://mylign.co.kr/)]. 
 <small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>
