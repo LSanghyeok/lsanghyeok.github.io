@@ -12,7 +12,7 @@ toc_sticky: true
 Hello! I am Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
 Pages : [[<span style="color:#964B00"><U>Github</U></span>](https://github.com/Lsanghyeok){:target="_blank"}]  [[<U>Linkedin</U>](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}]
-Affiliation : [<U>MLV LAB</U>](https://mlv.korea.ac.kr/)
+Affiliation : [[<U>MLV LAB</U>](https://mlv.korea.ac.kr/)]
 
 My resarch instersts is deep learning in computer vision including 2D images and 3D structured data. These days, I'm researching on point cloud data processing.  
 Keyword : Deep Learning, Computer Vision, Point Cloud Processing
@@ -48,11 +48,11 @@ Ph.D student in Computer Science at Korea University.
 ## MLV LAB 
 + Graduate Student Researcher (Sep 2020 - Present)  
 + Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim  
-+ Homepage : [<U>https://mlv.korea.ac.kr/</U>](https://mlv.korea.ac.kr/)  
++ Homepage : [[<U>https://mlv.korea.ac.kr/</U>](https://mlv.korea.ac.kr/)]  
   
 ## 3D Automatic Orthodontics 
 + Research Project (Feb 2020 - Nov 2021)
 + As a project leader, I developed orthodontics software that determines personal treatment for a given 3d dental model.
 + I implemented 3D tooth classification, detection, and registration models for automatic orthodontics.
-+ Project Client : [<U>https://mylign.co.kr/</U>](https://mylign.co.kr/)
++ Project Client : [[<U>https://mylign.co.kr/</U>](https://mylign.co.kr/)]
 + <small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>
