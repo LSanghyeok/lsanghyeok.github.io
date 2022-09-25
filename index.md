@@ -51,7 +51,7 @@ Ph.D student in Computer Science at Korea University.
 + Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim  
 + [[<span style="color:#964B00"><U>Homepage</U></span>](https://mlv.korea.ac.kr/)]  
   
-## 3D Automatic Orthodontics 
+## 3D Automated Orthodontics 
 + Research Project (Feb 2020 - Nov 2021)
 + As a project leader, I developed orthodontics software that determines personal treatment for a given 3d dental model.
 + I implemented 3D tooth classification, detection, and registration models for automatic orthodontics.
