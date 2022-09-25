@@ -11,8 +11,8 @@ toc_sticky: true
 
 Hello! I am Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim.  
 Email : cat0626@korea.ac.kr  
-Pages : [[<span style="color:#964B00"><U>Github</U></span>](https://github.com/Lsanghyeok){:target="_blank"}]  [[<U>Linkedin</U>](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}]
-Affiliation : [[<U>MLV LAB</U>](https://mlv.korea.ac.kr/)]
+Pages : [[<span style="color:#964B00"><U>Github</U></span>](https://github.com/Lsanghyeok){:target="_blank"}]  [[<span style="color:#964B00"><U>Linkedin</U></span>](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}]__
+Affiliation : [[<span style="color:#964B00"><U>MLV LAB</U></span>](https://mlv.korea.ac.kr/)]
 
 My resarch instersts is deep learning in computer vision including 2D images and 3D structured data. These days, I'm researching on point cloud data processing.  
 Keyword : Deep Learning, Computer Vision, Point Cloud Processing
@@ -41,18 +41,18 @@ Ph.D student in Computer Science at Korea University.
 ### International Conference on Computer Vision (ICCV), 2021 (Acceptance rate : 25.9%)
 [![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg)
 + **<span style="color:#AAAAAA">Sihyeon Kim\*</span>, Sanghyeok Lee\*, <span style="color:#AAAAAA">Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim</span>** (*: equal contribution)
-+ [[<U>Code</U>](https://github.com/mlvlab/PointWOLF){:target="_blank"}] [[<U>Arxiv</U>](https://arxiv.org/abs/2110.05379){:target="_blank"}]
++ [[<span style="color:#964B00"><U>Code</U></span>](https://github.com/mlvlab/PointWOLF){:target="_blank"}] [[<span style="color:#964B00"><U>Arxiv</U></span>](https://arxiv.org/abs/2110.05379){:target="_blank"}]
 
 # Experience
 ---
 ## MLV LAB 
 + Graduate Student Researcher (Sep 2020 - Present)  
 + Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim  
-+ [[<U>Homepage</U>](https://mlv.korea.ac.kr/)]  
++ [[<span style="color:#964B00"><U>Homepage</U></span>](https://mlv.korea.ac.kr/)]  
   
 ## 3D Automatic Orthodontics 
 + Research Project (Feb 2020 - Nov 2021)
 + As a project leader, I developed orthodontics software that determines personal treatment for a given 3d dental model.
 + I implemented 3D tooth classification, detection, and registration models for automatic orthodontics.
-+ [[<U>Project Client</U>](https://mylign.co.kr/)]
++ [[<span style="color:#964B00"><U>Project Client</U></span>](https://mylign.co.kr/)]
 + <small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>
