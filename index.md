@@ -16,7 +16,7 @@ Affiliation : [[<span style="color:#964B00"><U>MLV LAB</U></span>](https://mlv.k
 
 My resarch instersts is deep learning in computer vision including 2D images and 3D structured data. These days, I'm researching on point cloud data processing.  
 Keyword : Deep Learning, Computer Vision, Point Cloud Processing
-
+---
 # Education
 ## B.S. (Mar 2016 - Sep 2020)
 Bachelor of Science in Computer Science at Korea University 
@@ -27,7 +27,7 @@ Ph.D student in Computer Science at Korea University.
 + GPA : 4.37 / 4.50 (98.5 / 100)
 + Teaching Fellow : COSE474(Deep Learning, 2020)
 + Teaching Assitant : COSE361(Artificial Intelligence, 2021-2022)
-
+---
 # Publications
 ## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>]()
 **Conference on Neural Information Processing Systems (NeurIPS), 2022 (Acceptance rate : 25.6%)**
@@ -40,7 +40,7 @@ Ph.D student in Computer Science at Korea University.
 [![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg)
 + **<span style="color:#AAAAAA">Sihyeon Kim\*</span>, Sanghyeok Lee\*, <span style="color:#AAAAAA">Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim</span>** (*: equal contribution)
 + [[<span style="color:#964B00"><U>Code</U></span>](https://github.com/mlvlab/PointWOLF){:target="_blank"}] [[<span style="color:#964B00"><U>Arxiv</U></span>](https://arxiv.org/abs/2110.05379){:target="_blank"}]
-
+---
 # Experience
 ## MLV LAB 
 + Graduate Student Researcher (Sep 2020 - Present)  
