@@ -48,11 +48,11 @@ Ph.D student in Computer Science at Korea University.
 ## MLV LAB 
 + Graduate Student Researcher (Sep 2020 - Present)  
 + Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim  
-+ Homepage : [[<U>https://mlv.korea.ac.kr/</U>](https://mlv.korea.ac.kr/)]  
++ [[<U>Homepage</U>](https://mlv.korea.ac.kr/)]  
   
 ## 3D Automatic Orthodontics 
 + Research Project (Feb 2020 - Nov 2021)
 + As a project leader, I developed orthodontics software that determines personal treatment for a given 3d dental model.
 + I implemented 3D tooth classification, detection, and registration models for automatic orthodontics.
-+ Project Client : [[<U>https://mylign.co.kr/</U>](https://mylign.co.kr/)]
++ [[<U>Project Client</U>](https://mylign.co.kr/)]
 + <small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>
