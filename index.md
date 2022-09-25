@@ -30,13 +30,13 @@ Ph.D student in Computer Science at Korea University.
 
 # Publications
 ## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>]()
-### Conference on Neural Information Processing Systems (NeurIPS), 2022 (Acceptance rate : 25.6%)
+**Conference on Neural Information Processing Systems (NeurIPS), 2022 (Acceptance rate : 25.6%)**
 + (to appear)
 + **Sanghyeok Lee\*, <span style="color:#AAAAAA">Minkyu Jeon\*, Injae Kim, Yunyang Xiong, Hyunwoo J. Kim</span>** (*: equal contribution)
 + The code and models of SageMix will come soon.
 
 ## [01] [<U>Point Cloud Augmentation with Weighted Local Transformations</U>](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html)  
-### International Conference on Computer Vision (ICCV), 2021 (Acceptance rate : 25.9%)
+**International Conference on Computer Vision (ICCV), 2021 (Acceptance rate : 25.9%)**
 [![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg)
 + **<span style="color:#AAAAAA">Sihyeon Kim\*</span>, Sanghyeok Lee\*, <span style="color:#AAAAAA">Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim</span>** (*: equal contribution)
 + [[<span style="color:#964B00"><U>Code</U></span>](https://github.com/mlvlab/PointWOLF){:target="_blank"}] [[<span style="color:#964B00"><U>Arxiv</U></span>](https://arxiv.org/abs/2110.05379){:target="_blank"}]
@@ -52,4 +52,5 @@ Ph.D student in Computer Science at Korea University.
 + As a project leader, I developed orthodontics software that determines personal treatment for a given 3d dental model.
 + I implemented 3D tooth classification, detection, and registration models for automatic orthodontics.
 + [[<span style="color:#964B00"><U>Project Client</U></span>](https://mylign.co.kr/)]  
+
 <small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>
