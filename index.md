@@ -15,8 +15,8 @@ Email : cat0626@korea.ac.kr
 Pages : [[<span style="color:#964B00"><U>Github</U></span>](https://github.com/Lsanghyeok){:target="_blank"}]  [[<span style="color:#964B00"><U>Linkedin</U></span>](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}]  
 Affiliation : Machine Learning & Vision Lab [[<span style="color:#964B00"><U>MLV LAB</U></span>](https://mlv.korea.ac.kr/)]
 
-My resarch instersts is deep learning in computer vision including 2D images and 3D structured data. These days, I'm researching on point cloud data processing.  
-Keyword : Deep Learning, Computer Vision, Point Cloud Processing
+My resarch instersts is deep learning in computer vision including 2D images and 3D structured data. These days, I'm researching on point cloud processing.  
+Keyword : Deep Learning, Computer Vision, Point Clouds
 
 ---
 # Education
@@ -50,10 +50,11 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 # Experience
 ## MLV LAB [[<span style="color:#964B00"><U>Homepage</U></span>](https://mlv.korea.ac.kr/)]  
 + Graduate Student Researcher (Sep 2020 - Present)  
++ Machine Learning & Vision Lab
 + Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim  
   
 ## Automated diagnostic system for orthodontics. [[<span style="color:#964B00"><U>Project Client</U></span>](https://mylign.co.kr/)]
 + Research Project (Feb 2020 - Nov 2021)
-+ As a project leader, I developed an automated diagnosis software for a 3d dental model.
++ As a project leader, I developed an automated diagnosis software for a 3D dental model.
 + I implemented 3D tooth classification, detection, and registration models.
 + <small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>
