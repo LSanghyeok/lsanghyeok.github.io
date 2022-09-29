@@ -22,13 +22,13 @@ Keyword : Deep Learning, Computer Vision, Point Cloud Processing
 # Education
 ## B.S. (Mar 2016 - Sep 2020)
 Bachelor of Science in Computer Science at Korea University 
-+ GPA : 4.02/4.50(94.5/100)
++ GPA : 4.02/4.50 (94.5/100)
 
 ## M.S. & Ph.D. (Sep 2020 - Present)
 M.S. & Ph.D integrated program in Computer Science at Korea University.
 + GPA : 4.37 / 4.50 (98.5 / 100)
-+ Teaching Fellow : COSE474(Deep Learning, 2020)
-+ Teaching Assitant : COSE361(Artificial Intelligence, 2021-2022)
++ Teaching Fellow : COSE474 (Deep Learning, 2020)
++ Teaching Assitant : COSE361 (Artificial Intelligence, 2021-2022)
 
 ---
 # Publications
@@ -42,7 +42,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 **International Conference on Computer Vision (ICCV), 2021 (Acceptance rate : 25.9%)**
 [![PointWOLF](/assets/images/PointWOLF.jpg){: .open-new width="100%" height="100%"}](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg)
 + **<span style="color:#AAAAAA">Sihyeon Kim\*</span>, Sanghyeok Lee\*, <span style="color:#AAAAAA">Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim</span>** (*: equal contribution)
-+ [[<span style="color:#964B00"><U>Code</U></span>](https://github.com/mlvlab/PointWOLF){:target="_blank"}] [[<span style="color:#964B00"><U>Arxiv</U></span>](https://arxiv.org/abs/2110.05379){:target="_blank"}]
++ [[<span style="color:#964B00"><U>Code</U></span>](https://github.com/mlvlab/PointWOLF){:target="_blank"}] [[<span style="color:#964B00"><U>Arxiv</U></span>](https://arxiv.org/abs/2110.05379){:target="_blank"}] [[<span style="color:#964B00"><U>Poster</U></span>](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg){:target="_blank"}]
 
 ---
 # Experience
