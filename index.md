@@ -58,3 +58,6 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 + As a project leader, I developed an automated diagnosis software for a 3D dental model.
 + I implemented 3D tooth classification, detection, and registration models.
 + <small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>
+
+## HONORS & AWARDS
++ NeurIPS 2022 Scholar Award
