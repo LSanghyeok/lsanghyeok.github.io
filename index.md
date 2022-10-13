@@ -60,4 +60,4 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 + <small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>
 
 ## HONORS & AWARDS
-+ NeurIPS Scholar Award - 2022
++ Scholar Award in NeurIPS 2022
