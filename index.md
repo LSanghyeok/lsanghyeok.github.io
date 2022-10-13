@@ -10,7 +10,7 @@ toc_sticky: true
 # Sanghyeok Lee
 ![photo](/assets/images/KakaoTalk_20220802_223215356.jpg){: .open-new width="30%" height="30%"}
 
-Hello! I am Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim.  
+Hello! I am Ph.D student in Department of Computer Sciences at Korea Univ advised by [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}.  
 Email : cat0626@korea.ac.kr  
 Pages : [[<span style="color:#964B00"><U>Github</U></span>](https://github.com/Lsanghyeok){:target="_blank"}]  [[<span style="color:#964B00"><U>Linkedin</U></span>](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}]  
 Affiliation : Machine Learning & Vision Lab [[<span style="color:#964B00"><U>MLV LAB</U></span>](https://mlv.korea.ac.kr/)]
@@ -32,28 +32,28 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 
 ---
 # Publications
-## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>]()
+## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>](){:target="_blank"}
 **Conference on Neural Information Processing Systems (NeurIPS), 2022 (Acceptance rate : 25.6%)**
 ![SageMix](/assets/images/SageMix.jpg){: .open-new width="100%" height="100%"}
-+ **Sanghyeok Lee\*, <span style="color:#AAAAAA">Minkyu Jeon\*, Injae Kim, Yunyang Xiong, Hyunwoo J. Kim</span>** (*: equal contribution)
++ **Sanghyeok Lee\*, <span style="color:#AAAAAA">Minkyu Jeon\*, Injae Kim, Yunyang Xiong, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}</span>** (*: equal contribution)
 + **[[<span style="color:#964B00"><U>Code</U></span>](https://github.com/mlvlab/SageMix){:target="_blank"}]**
 
-## [01] [<U>Point Cloud Augmentation with Weighted Local Transformations</U>](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html)  
+## [01] [<U>Point Cloud Augmentation with Weighted Local Transformations</U>](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html){:target="_blank"}  
 **International Conference on Computer Vision (ICCV), 2021 (Acceptance rate : 25.9%)**
 ![PointWOLF](/assets/images/PointWOLF_main.png){: .open-new width="100%" height="100%"}
-+ **<span style="color:#AAAAAA">Sihyeon Kim\*</span>, Sanghyeok Lee\*, <span style="color:#AAAAAA">Dasol Hwang, Jaewon Lee, Seong Jae Hwang, Hyunwoo J Kim</span>** (*: equal contribution)
++ **<span style="color:#AAAAAA">Sihyeon Kim\*</span>, Sanghyeok Lee\*, <span style="color:#AAAAAA">Dasol Hwang, Jaewon Lee, Seong Jae Hwang, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}</span>** (*: equal contribution)
 + **[[<span style="color:#964B00"><U>Code</U></span>](https://github.com/mlvlab/PointWOLF){:target="_blank"}] [[<span style="color:#964B00"><U>Arxiv</U></span>](https://arxiv.org/abs/2110.05379){:target="_blank"}] [[<span style="color:#964B00"><U>Poster</U></span>](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg){:target="_blank"}] [[<span style="color:#964B00"><U>Video</U></span>](https://www.youtube.com/watch?v=8XHzNz5MSiU){:target="_blank"}]**
 
 
 
 ---
 # Experience
-## MLV LAB [[<span style="color:#964B00"><U>Homepage</U></span>](https://mlv.korea.ac.kr/)]  
+## MLV LAB [[<span style="color:#964B00"><U>Homepage</U></span>](https://mlv.korea.ac.kr/){:target="_blank"}]  
 + Graduate Student Researcher (Sep 2020 - Present)  
 + Machine Learning & Vision Lab
-+ Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J Kim  
++ Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J. Kim  
   
-## Automated diagnostic system for orthodontics. [[<span style="color:#964B00"><U>Project Client</U></span>](https://mylign.co.kr/)]
+## Automated diagnostic system for orthodontics. [[<span style="color:#964B00"><U>Project Client</U></span>](https://mylign.co.kr/){:target="_blank"}]
 + Research Project (Feb 2020 - Nov 2021)
 + As a project leader, I developed an automated diagnosis software for a 3D dental model.
 + I implemented 3D tooth classification, detection, and registration models.
