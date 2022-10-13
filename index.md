@@ -46,7 +46,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 + [![PointWOLF Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/PointWOLF){:target="_blank"}
 [![PointWOLF Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2110.05379){:target="_blank"}
 [![PointWOLF Video Badge](https://img.shields.io/badge/Video-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=8XHzNz5MSiU){:target="_blank"}
-[[<span style="color:#964B00"><U>Poster</U></span>](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg){:target="_blank"}]
+[![PointWOLF Poster Badge](https://img.shields.io/badge/Poster-B7472A?style=flat&logo=Microsoft%20PowerPoint)(https://lsanghyeok.github.io/assets/images/PointWOLF.jpg){:target="_blank"}
 
 
 
