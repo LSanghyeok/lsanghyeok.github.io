@@ -60,8 +60,8 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
   
 ## [Automated diagnostic system for orthodontics](https://mylign.co.kr/){:target="_blank"}]
 + Research Project (Feb 2020 - Nov 2021)
-+ As a project leader, I developed an automated diagnosis software for a 3D dental model.
-+ I implemented 3D tooth classification, detection, and registration models.
++ As a project leader, I developed an automated diagnosis software for a 3D dental model
++ I implemented 3D tooth classification, detection, and registration models
 + <small>keywords : Medical Imaging, 3D, Point Cloud, Classification, Detection, Registration</small>
 
 ## HONORS & AWARDS
