@@ -35,7 +35,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 ## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>](){:target="_blank"}
 **Conference on Neural Information Processing Systems (NeurIPS), 2022 (Acceptance rate : 25.6%)**
 ![SageMix](/assets/images/SageMix.jpg){: .open-new width="100%" height="100%"}
-+ <span style="color:#000000">**Sanghyeok Lee\*</span>, [Minkyu Jeon](https://minkyujeon.github.io/){:target="_blank"}\*, Injae Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
++ **<span style="color:#000000">Sanghyeok Lee\*</span>, [Minkyu Jeon](https://minkyujeon.github.io/){:target="_blank"}\*, Injae Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
 + **[[<span style="color:#964B00"><U>Code</U></span>](https://github.com/mlvlab/SageMix){:target="_blank"}]**
 
 ## [01] [<U>Point Cloud Augmentation with Weighted Local Transformations</U>](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html){:target="_blank"}  
