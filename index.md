@@ -12,7 +12,7 @@ toc_sticky: true
 
 Hello! I am Ph.D student in Department of Computer Sciences at Korea Univ advised by [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}.  
 Email : cat0626@korea.ac.kr  
-Affiliation : [Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target="_blank"}
+Affiliation : [Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target="_blank"}  
 [![Github Badge](https://img.shields.io/badge/Github-000?style=flat&logo=github)](https://github.com/Lsanghyeok){:target="_blank"}
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
 
