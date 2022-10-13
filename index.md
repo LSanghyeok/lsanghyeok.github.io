@@ -43,10 +43,10 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 **International Conference on Computer Vision (ICCV), 2021**
 ![PointWOLF](/assets/images/PointWOLF_main.png){: .open-new width="100%" height="100%"}
 + **Sihyeon Kim\*, Sanghyeok Lee\*, Dasol Hwang, Jaewon Lee, [Seong Jae Hwang](https://micv.yonsei.ac.kr/seongjae){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
-+ [![SageMix Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/PointWOLF){:target="_blank"}
-**[[<span style="color:#964B00"><U>Arxiv</U></span>](https://arxiv.org/abs/2110.05379){:target="_blank"}]
++ [![PointWOLF Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/PointWOLF){:target="_blank"}
+[![PointWOLF Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2110.05379){:target="_blank"}]
 [[<span style="color:#964B00"><U>Poster</U></span>](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg){:target="_blank"}]
-[[<span style="color:#964B00"><U>Video</U></span>](https://www.youtube.com/watch?v=8XHzNz5MSiU){:target="_blank"}]**
+[[<span style="color:#964B00"><U>Video</U></span>](https://www.youtube.com/watch?v=8XHzNz5MSiU){:target="_blank"}]
 
 
 
