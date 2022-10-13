@@ -11,10 +11,10 @@ toc_sticky: true
 ![photo](/assets/images/KakaoTalk_20220802_223215356.jpg){: .open-new width="30%" height="30%"}
 
 Hello! I am Ph.D student in Department of Computer Sciences at Korea Univ advised by [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}.  
-[![Email Badge](https://img.shields.io/badge/Poster-ffffff?style=flat&logo=Gmail)](cat0626@korea.ac.kr)
+Email : (cat0626@korea.ac.kr)
+Affiliation : Machine Learning & Vision Lab [[<span style="color:#964B00"><U>MLV LAB</U></span>](https://mlv.korea.ac.kr/)]
 [![Github Badge](https://img.shields.io/badge/Github-000?style=flat&logo=github)](https://github.com/Lsanghyeok){:target="_blank"}
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
-Affiliation : Machine Learning & Vision Lab [[<span style="color:#964B00"><U>MLV LAB</U></span>](https://mlv.korea.ac.kr/)]
 
 My resarch instersts is deep learning in computer vision including 2D images and 3D structured data. These days, I'm researching on point cloud processing.  
 Keyword : Deep Learning, Computer Vision, Point Clouds
