@@ -34,9 +34,9 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 # Publications
 ## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>]()
 **Conference on Neural Information Processing Systems (NeurIPS), 2022 (Acceptance rate : 25.6%)**
-+ (to appear)
+![SageMix](/assets/images/SageMix.jpg){: .open-new width="100%" height="100%"}
 + **Sanghyeok Lee\*, <span style="color:#AAAAAA">Minkyu Jeon\*, Injae Kim, Yunyang Xiong, Hyunwoo J. Kim</span>** (*: equal contribution)
-+ The paper and code of SageMix will come soon.
++ **[[<span style="color:#964B00"><U>Code</U></span>](https://github.com/mlvlab/SageMix){:target="_blank"}]
 
 ## [01] [<U>Point Cloud Augmentation with Weighted Local Transformations</U>](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html)  
 **International Conference on Computer Vision (ICCV), 2021 (Acceptance rate : 25.9%)**
