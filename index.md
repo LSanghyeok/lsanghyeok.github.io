@@ -53,7 +53,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 + Machine Learning & Vision Lab
 + Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J. Kim  
   
-## Automated diagnostic system for orthodontics. [[<span style="color:#964B00"><U>Project Client</U></span>](https://mylign.co.kr/){:target="_blank"}]
+## Automated diagnostic system for orthodontics [[<span style="color:#964B00"><U>Project Client</U></span>](https://mylign.co.kr/){:target="_blank"}]
 + Research Project (Feb 2020 - Nov 2021)
 + As a project leader, I developed an automated diagnosis software for a 3D dental model.
 + I implemented 3D tooth classification, detection, and registration models.
