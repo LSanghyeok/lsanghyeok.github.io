@@ -66,7 +66,7 @@ Statrup, Cofounder (May 2021 - Dec 2021)
 Sponsored by Korea Ministry of Science and ICT (∼ 70,000 USD)  
 <small>keywords : Market research, and business model design</small>
   
-## [Automated diagnostic system for orthodontics](https://mylign.co.kr/){:target="_blank"}
+## [AI diagnostic system for orthodontics](https://mylign.co.kr/){:target="_blank"}
 Research Project (Feb 2020 - Nov 2021)  
 As a project leader, developed an automated diagnosis software for a 3D dental model  
 <small>keywords : 3D classification, 3D object detection, 3D alignment, and medical imaging</small>
