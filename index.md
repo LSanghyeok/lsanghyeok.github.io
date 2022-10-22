@@ -10,7 +10,7 @@ toc_sticky: true
 # Sanghyeok Lee
 ![photo](/assets/images/KakaoTalk_20220802_223215356.jpg){: .open-new width="30%" height="30%"}
 
-Hello! I am Ph.D student in Department of Computer Sciences at Korea Univ advised by [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}.  
+Hello! I am Ph.D student in Department of Computer Sciences at Korea University advised by Dr. [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}.  
 Email : cat0626@korea.ac.kr  
 Affiliation : [Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target="_blank"}  
 [![Github Badge](https://img.shields.io/badge/Github-000?style=flat&logo=github)](https://github.com/Lsanghyeok){:target="_blank"}
@@ -55,7 +55,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 # Experience
 ## [MLV LAB: Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target="_blank"}  
 Graduate Student Researcher (Sep 2020 - Present)   
-Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J. Kim  
+Master&Ph.D student in Department of Computer Sciences at Korea University advised by Dr. Hyunwoo J. Kim  
 
 ## 3D Registration for Multiplex Imaging
 Collaboration with [College of Medicine at Korea University](https://medicine.korea.ac.kr/web/www/-28?p_p_id=ProfessorInfo_WAR_professorInfoportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_ProfessorInfo_WAR_professorInfoportlet_curPage=8&_ProfessorInfo_WAR_professorInfoportlet_action=view_message&_ProfessorInfo_WAR_professorInfoportlet_infoId=02710){:target="_blank"} (July 2022 - Present)  
