@@ -71,7 +71,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 + As a project leader, developed an automated diagnosis software for a 3D dental model
 + <small>keywords : 3D classification, 3D object detection, 3D alignment, and medical imaging</small>
 
-## HONORS & AWARDS
+### HONORS & AWARDS
 <small>Travel Award @ NeurIPS 2022  
 Scholarship @ Brain Korea 21(BK21) 2021,2022  
 Teaching Assistantship @ Korea Univ. 2021,2022  
