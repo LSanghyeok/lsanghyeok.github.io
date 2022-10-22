@@ -53,12 +53,12 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 
 ---
 # Experience
-## [MLV LAB](https://mlv.korea.ac.kr/){:target="_blank"}]  
+## [MLV LAB](https://mlv.korea.ac.kr/){:target="_blank"}  
 + Graduate Student Researcher (Sep 2020 - Present)  
 + Machine Learning & Vision Lab
 + Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J. Kim  
   
-## [Automated diagnostic system for orthodontics](https://mylign.co.kr/){:target="_blank"}]
+## [Automated diagnostic system for orthodontics](https://mylign.co.kr/){:target="_blank"}
 + Research Project (Feb 2020 - Nov 2021)
 + As a project leader, I developed an automated diagnosis software for a 3D dental model
 + I implemented 3D tooth classification, detection, and registration models
