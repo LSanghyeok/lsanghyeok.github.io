@@ -58,18 +58,18 @@ Graduate Student Researcher (Sep 2020 - Present)
 Master&Ph.D student in Department of Computer Sciences at Korea Univ advised by Hyunwoo J. Kim  
 
 ## 3D Registration for Multiplex Imaging
-+ Collaboration with [College of Medicine at Korea University](https://medicine.korea.ac.kr/web/www/-28?p_p_id=ProfessorInfo_WAR_professorInfoportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_ProfessorInfo_WAR_professorInfoportlet_curPage=8&_ProfessorInfo_WAR_professorInfoportlet_action=view_message&_ProfessorInfo_WAR_professorInfoportlet_infoId=02710){:target="_blank"} (July 2022 - Present)
-+ <small>keywords : Alignment & registration in 2D & 3D, and medical imaging</small>
+Collaboration with [College of Medicine at Korea University](https://medicine.korea.ac.kr/web/www/-28?p_p_id=ProfessorInfo_WAR_professorInfoportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_ProfessorInfo_WAR_professorInfoportlet_curPage=8&_ProfessorInfo_WAR_professorInfoportlet_action=view_message&_ProfessorInfo_WAR_professorInfoportlet_infoId=02710){:target="_blank"} (July 2022 - Present)  
+<small>keywords : Alignment & registration in 2D & 3D, and medical imaging</small>
 
 ## Drone Laps: Drone-Based Autonomous Maintenance Service
-+ Statrup, Cofounder (May 2021 - Dec 2021)
-+ Sponsored by Korea Ministry of Science and ICT (∼ 70,000 USD)
-+ <small>keywords : Market research, and business model design</small>
+Statrup, Cofounder (May 2021 - Dec 2021)  
+Sponsored by Korea Ministry of Science and ICT (∼ 70,000 USD)  
+<small>keywords : Market research, and business model design</small>
   
 ## [Automated diagnostic system for orthodontics](https://mylign.co.kr/){:target="_blank"}
-+ Research Project (Feb 2020 - Nov 2021)
-+ As a project leader, developed an automated diagnosis software for a 3D dental model
-+ <small>keywords : 3D classification, 3D object detection, 3D alignment, and medical imaging</small>
+Research Project (Feb 2020 - Nov 2021)  
+As a project leader, developed an automated diagnosis software for a 3D dental model  
+<small>keywords : 3D classification, 3D object detection, 3D alignment, and medical imaging</small>
 
 ---
 # HONORS & AWARDS
@@ -78,4 +78,3 @@ Scholarship @ Brain Korea 21(BK21) 2021,2022
 Teaching Assistantship @ Korea Univ. 2021,2022  
 Teaching Fellowship @ Korea Univ. 2020  
 Scholarship @ Korea Univ. 2016,2017,2018,2019,2020</small>
-
