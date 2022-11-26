@@ -39,7 +39,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 + **<span style="color:#000000">Sanghyeok Lee\*</span>, [Minkyu Jeon](https://minkyujeon.github.io/){:target="_blank"}\*, Injae Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
 + [![SageMix Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/SageMix){:target="_blank"}
 [![SageMix Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2210.06944){:target="_blank"}
-[![PointWOLF Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](https://github.com/LSanghyeok/lsanghyeok.github.io/blob/new/assets/images/SageMix-Poster.pdf){:target="_blank"}
+[![PointWOLF Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](https://lsanghyeok.github.io/assets/images/SageMix-Poster.pdf){:target="_blank"}
 
 
 
