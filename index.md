@@ -33,7 +33,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 
 ---
 # Publications
-## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>](){:target="_blank"}
+## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>](https://openreview.net/forum?id=q-FRENiEP_d){:target="_blank"}
 **Conference on Neural Information Processing Systems (NeurIPS), 2022**
 ![SageMix](/assets/images/SageMix.jpg){: .open-new width="100%" height="100%"}
 + **<span style="color:#000000">Sanghyeok Lee\*</span>, [Minkyu Jeon](https://minkyujeon.github.io/){:target="_blank"}\*, Injae Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
