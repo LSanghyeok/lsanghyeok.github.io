@@ -16,7 +16,7 @@ Affiliation : [Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target=
 [![Github Badge](https://img.shields.io/badge/Github-000?style=flat&logo=github)](https://github.com/Lsanghyeok){:target="_blank"}
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
 
-My resarch instersts is deep learning in computer vision including 2D images and 3D structured data. These days, I'm researching on point cloud processing.  
+My resarch instersts include deep learning & computer vision on 2D images and 3D structured data. These days, I'm researching on point cloud processing.  
 Keyword : Deep Learning, Computer Vision, Point Clouds
 
 ---
@@ -39,7 +39,8 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 + **<span style="color:#000000">Sanghyeok Lee\*</span>, [Minkyu Jeon](https://minkyujeon.github.io/){:target="_blank"}\*, Injae Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
 + [![SageMix Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/SageMix){:target="_blank"}
 [![SageMix Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2210.06944){:target="_blank"}
-[![PointWOLF Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](https://lsanghyeok.github.io/assets/images/SageMix-poster.png){:target="_blank"}
+[![SageMix Video Badge](https://img.shields.io/badge/Video-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=bLq2iuB4wZ4&t=123s){:target="_blank"}
+[![SageMix Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](https://lsanghyeok.github.io/assets/images/SageMix-poster.png){:target="_blank"}
 
 
 
