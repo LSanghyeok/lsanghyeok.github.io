@@ -35,7 +35,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 # Publications
 ## [03] [<U>Self-positioning Point-based Transformer for Point Cloud Understanding</U>](){:target="_blank"}
 **The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023**
-![SageMix](/assets/images/SpoTr.png){: .open-new width="100%" height="100%"}
+![SPoTr](/assets/images/SPoTr.PNG){: .open-new width="100%" height="100%"}
 + **Jinyoung Park\*, Sanghyeok Lee\*, Sihyeon Kim, Yunyang Xiong, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
 
 ## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>](https://openreview.net/forum?id=q-FRENiEP_d){:target="_blank"}
