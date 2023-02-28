@@ -33,6 +33,11 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 
 ---
 # Publications
+## [03] [<U>Self-positioning Point-based Transformer for Point Cloud Understanding</U>](){:target="_blank"}
+**The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023**
+![SageMix](/assets/images/SpoTr.png){: .open-new width="100%" height="100%"}
++ **Jinyoung Park\*, Sanghyeok Lee\*, Sihyeon Kim, Yunyang Xiong, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
+
 ## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>](https://openreview.net/forum?id=q-FRENiEP_d){:target="_blank"}
 **Conference on Neural Information Processing Systems (NeurIPS), 2022**
 ![SageMix](/assets/images/SageMix.jpg){: .open-new width="100%" height="100%"}
@@ -41,7 +46,6 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 [![SageMix Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2210.06944){:target="_blank"}
 [![SageMix Video Badge](https://img.shields.io/badge/Video-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=bLq2iuB4wZ4&t=123s){:target="_blank"}
 [![SageMix Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](https://lsanghyeok.github.io/assets/images/SageMix-poster.png){:target="_blank"}
-
 
 
 ## [01] [<U>Point Cloud Augmentation with Weighted Local Transformations</U>](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html){:target="_blank"}  
