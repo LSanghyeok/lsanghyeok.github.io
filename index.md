@@ -36,7 +36,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 ## [03] [<U>Self-positioning Point-based Transformer for Point Cloud Understanding</U>](){:target="_blank"}
 **The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023**
 ![SPoTr](/assets/images/SPoTr.PNG){: .open-new width="100%" height="100%"}
-+ **Jinyoung Park\*, Sanghyeok Lee\*, Sihyeon Kim, Yunyang Xiong, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
++ **Jinyoung Park\*, Sanghyeok Lee\*, Sihyeon Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
 
 ## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>](https://openreview.net/forum?id=q-FRENiEP_d){:target="_blank"}
 **Conference on Neural Information Processing Systems (NeurIPS), 2022**
@@ -63,21 +63,21 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 # Experience
 ## [MLV LAB: Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target="_blank"}  
 Graduate Student Researcher (Sep 2020 - Present)   
-Master & Ph.D student in Department of Computer Sciences at Korea University advised by Dr. Hyunwoo J. Kim  
++ Master & Ph.D student in Department of Computer Sciences at Korea University advised by Dr. Hyunwoo J. Kim  
 
 ## 3D Registration for Multiplex Imaging
 Collaboration with [College of Medicine at Korea University](https://medicine.korea.ac.kr/web/www/-28?p_p_id=ProfessorInfo_WAR_professorInfoportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_ProfessorInfo_WAR_professorInfoportlet_curPage=8&_ProfessorInfo_WAR_professorInfoportlet_action=view_message&_ProfessorInfo_WAR_professorInfoportlet_infoId=02710){:target="_blank"} (July 2022 - Present)  
-<small>keywords : Alignment & registration in 2D & 3D, and medical imaging</small>
++ <small>keywords : Alignment & registration in 2D & 3D, and medical imaging</small>
 
 ## Drone Laps: Drone-Based Autonomous Maintenance Service
 Statrup, Cofounder (May 2021 - Dec 2021)  
-Sponsored by Korea Ministry of Science and ICT (∼ 70,000 USD)  
-<small>keywords : Market research, and business model design</small>
++ Sponsored by Korea Ministry of Science and ICT (∼ 70,000 USD)  
++ <small>keywords : Market research, and business model design</small>
   
 ## [AI diagnostic system for orthodontics](https://mylign.co.kr/){:target="_blank"}
 Research Project (Feb 2020 - Nov 2021)  
-As a project leader, developed an automated diagnosis software for a 3D dental model  
-<small>keywords : 3D classification, 3D object detection, 3D alignment, and medical imaging</small>
++ As a project leader, developed an automated diagnosis software for a 3D dental model  
++ <small>keywords : 3D classification, 3D object detection, 3D alignment, and medical imaging</small>
 
 ---
 # HONORS & AWARDS
@@ -90,5 +90,5 @@ Scholarship @ Korea Univ. 2016,2017,2018,2019,2020</small>
 ---
 # Presentations or Talks
 <small>
-"3D Point Cloud and Transformer - SageMix: Saliency-Guided Mixup for Point Clouds", Korean Conference on Computer Vision (KCCV) Tutorial, Feb 2023.
+"3D Point Cloud and Transformer - SageMix: Saliency-Guided Mixup for Point Clouds" @ Korean Conference on Computer Vision (KCCV) Tutorial, Feb 2023.
 </small>
