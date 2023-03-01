@@ -27,7 +27,7 @@ Bachelor of Science in Computer Science at Korea University
 
 ## M.S. & Ph.D. (Sep 2020 - Present)
 M.S. & Ph.D integrated program in Computer Science at Korea University.
-+ GPA : 4.37 / 4.50 (98.5 / 100)
++ GPA : 4.25 / 4.50 (97.1 / 100)
 + Teaching Fellow : COSE474 (Deep Learning, 2020)
 + Teaching Assitant : COSE361 (Artificial Intelligence, 2021-2022)
 
