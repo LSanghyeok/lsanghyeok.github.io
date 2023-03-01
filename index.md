@@ -90,5 +90,6 @@ Scholarship @ Korea Univ. 2016,2017,2018,2019,2020</small>
 ---
 # Presentations or Talks
 <small>
-"3D Point Cloud and Transformer - SageMix: Saliency-Guided Mixup for Point Clouds" @ Korean Conference on Computer Vision (KCCV) Tutorial, Feb 2023.
+"3D Point Cloud and Transformer - SageMix: Saliency-Guided Mixup for Point Clouds"  
+  @ Korean Conference on Computer Vision (KCCV) Tutorial, Feb 2023.
 </small>
