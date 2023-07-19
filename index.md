@@ -33,10 +33,19 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 
 ---
 # Publications
-## [03] [<U>Self-positioning Point-based Transformer for Point Cloud Understanding</U>](){:target="_blank"}
+## [04] [<U>Read-only Prompt Optimization for Vision-Language Few-shot Learning</U>](){:target="_blank"}
+**International Conference on Computer Vision (ICCV), 2023**
+![RPO](/assets/images/RPO.PNG){: .open-new width="100%" height="100%"}
++ **DongJun Lee, Seokwon Song, Jihee Suh, Joonmyung Choi, Sanghyeok Lee, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
+
+## [03] [<U>Self-positioning Point-based Transformer for Point Cloud Understanding</U>](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.pdf){:target="_blank"}
 **The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023**
 ![SPoTr](/assets/images/SPoTr.PNG){: .open-new width="100%" height="100%"}
 + **Jinyoung Park\*, Sanghyeok Lee\*, Sihyeon Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
++ [![SPoTr Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/SPoTr){:target="_blank"}
+[![SPoTr Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2303.16450){:target="_blank"}
+[![SPoTr Video Badge](https://img.shields.io/badge/Video-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=5Q6P3LC-qI4&t=285s){:target="_blank"}
+[![SPoTr Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](){:target="_blank"}
 
 ## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>](https://openreview.net/forum?id=q-FRENiEP_d){:target="_blank"}
 **Conference on Neural Information Processing Systems (NeurIPS), 2022**
