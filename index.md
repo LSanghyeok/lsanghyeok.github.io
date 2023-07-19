@@ -45,7 +45,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 + [![SPoTr Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/SPoTr){:target="_blank"}
 [![SPoTr Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2303.16450){:target="_blank"}
 [![SPoTr Video Badge](https://img.shields.io/badge/Video-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=5Q6P3LC-qI4&t=285s){:target="_blank"}
-[![SPoTr Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](){:target="_blank"}
+[![SPoTr Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](https://lsanghyeok.github.io/assets/images/SPoTr_poster.pdf){:target="_blank"}
 
 ## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>](https://openreview.net/forum?id=q-FRENiEP_d){:target="_blank"}
 **Conference on Neural Information Processing Systems (NeurIPS), 2022**
