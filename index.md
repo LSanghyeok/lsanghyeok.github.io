@@ -36,7 +36,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 ## [04] [<U>Read-only Prompt Optimization for Vision-Language Few-shot Learning</U>](){:target="_blank"}
 **International Conference on Computer Vision (ICCV), 2023**
 ![RPO](/assets/images/RPO.PNG){: .open-new width="100%" height="100%"}
-+ **DongJun Lee, Seokwon Song, Jihee Suh, Joonmyung Choi, Sanghyeok Lee, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)
++ **DongJun Lee, Seokwon Song, Jihee Suh, Joonmyung Choi, Sanghyeok Lee, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** 
 
 ## [03] [<U>Self-positioning Point-based Transformer for Point Cloud Understanding</U>](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.pdf){:target="_blank"}
 **The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023**
