@@ -67,31 +67,29 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 [![PointWOLF Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](https://lsanghyeok.github.io/assets/images/PointWOLF.jpg){:target="_blank"}
 
 
-
 ---
 # Experience
 ## [MLV LAB: Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target="_blank"}  
 Graduate Student Researcher (Sep 2020 - Present)   
 + Master & Ph.D student in Department of Computer Sciences at Korea University advised by Dr. Hyunwoo J. Kim  
 
-
-## Blood Image Analysis for the Diagnosis of Infectious Diseases and Blood Cancers
+### Blood Image Analysis for the Diagnosis of Infectious Diseases and Blood Cancers
 Collaboration with [Korea University Guro Hospital](https://guro.kumc.or.kr/kr/doctor-department/doctor/view.do?drNo=6049){:target="_blank"} (Aug 2022 - Present)
 + <small>keywords : Object Detection, and medical imaging</small>
 
-## 3D Registration for Multiplex Imaging
+### 3D Registration for Multiplex Imaging
 Collaboration with [College of Medicine at Korea University](https://medicine.korea.ac.kr/web/www/-28?p_p_id=ProfessorInfo_WAR_professorInfoportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_ProfessorInfo_WAR_professorInfoportlet_curPage=8&_ProfessorInfo_WAR_professorInfoportlet_action=view_message&_ProfessorInfo_WAR_professorInfoportlet_infoId=02710){:target="_blank"} (July 2022 - Mar 2023)  
 + <small>keywords : Alignment & registration in 2D & 3D, medical imaging</small>
+  
+### [AI Diagnostic System for Orthodontics](https://mylign.co.kr/){:target="_blank"}
+Research Project (Feb 2020 - Nov 2021)  
++ As a project leader, developed an automated diagnosis software for a 3D dental model  
++ <small>keywords : 3D classification, 3D object detection, 3D alignment, medical imaging</small>
 
 ## Drone Laps: Drone-Based Autonomous Maintenance Service
 Statrup, Cofounder (May 2021 - Dec 2021)  
 + Sponsored by Korea Ministry of Science and ICT (∼ 70,000 USD)  
 + <small>keywords : Market research, business model design</small>
-  
-## [AI Diagnostic System for Orthodontics](https://mylign.co.kr/){:target="_blank"}
-Research Project (Feb 2020 - Nov 2021)  
-+ As a project leader, developed an automated diagnosis software for a 3D dental model  
-+ <small>keywords : 3D classification, 3D object detection, 3D alignment, medical imaging</small>
 
 ---
 # HONORS & AWARDS
