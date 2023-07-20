@@ -54,6 +54,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 + [![SageMix Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/SageMix){:target="_blank"}
 [![SageMix Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2210.06944){:target="_blank"}
 [![SageMix Video Badge](https://img.shields.io/badge/Video-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=bLq2iuB4wZ4&t=123s){:target="_blank"}
+[![SageMix Video Badge](https://img.shields.io/badge/Video(kor)-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=uXeY1CqM-xs&t=11s){:target="_blank"}
 [![SageMix Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](https://lsanghyeok.github.io/assets/images/SageMix-poster.png){:target="_blank"}
 
 
