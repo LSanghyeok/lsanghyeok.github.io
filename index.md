@@ -16,8 +16,8 @@ Affiliation : [Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target=
 [![Github Badge](https://img.shields.io/badge/Github-000?style=flat&logo=github)](https://github.com/Lsanghyeok){:target="_blank"}
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
 
-My resarch instersts include deep learning & computer vision on 2D images and 3D structured data. These days, I'm researching on point cloud processing.  
-Keyword : Deep Learning, Computer Vision, Point Clouds
+My research interests include efficient neural networks, data augmentation on 3D structured data, and prompt tuning. 
+Keyword : Deep Learning, Computer Vision, Data Augmentation, Prompt Tuning, Point Clouds, Efficient Neural Network
 
 ---
 # Education
@@ -74,19 +74,24 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 Graduate Student Researcher (Sep 2020 - Present)   
 + Master & Ph.D student in Department of Computer Sciences at Korea University advised by Dr. Hyunwoo J. Kim  
 
+
+## Blood Image Analysis for the Diagnosis of Infectious Diseases and Blood Cancers
+Collaboration with [Korea University Guro Hospital](https://guro.kumc.or.kr/kr/doctor-department/doctor/view.do?drNo=6049){:target="_blank"} (Aug 2022 - Present)
++ <small>keywords : Object Detection, and medical imaging</small>
+
 ## 3D Registration for Multiplex Imaging
-Collaboration with [College of Medicine at Korea University](https://medicine.korea.ac.kr/web/www/-28?p_p_id=ProfessorInfo_WAR_professorInfoportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_ProfessorInfo_WAR_professorInfoportlet_curPage=8&_ProfessorInfo_WAR_professorInfoportlet_action=view_message&_ProfessorInfo_WAR_professorInfoportlet_infoId=02710){:target="_blank"} (July 2022 - Present)  
-+ <small>keywords : Alignment & registration in 2D & 3D, and medical imaging</small>
+Collaboration with [College of Medicine at Korea University](https://medicine.korea.ac.kr/web/www/-28?p_p_id=ProfessorInfo_WAR_professorInfoportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_ProfessorInfo_WAR_professorInfoportlet_curPage=8&_ProfessorInfo_WAR_professorInfoportlet_action=view_message&_ProfessorInfo_WAR_professorInfoportlet_infoId=02710){:target="_blank"} (July 2022 - Mar 2023)  
++ <small>keywords : Alignment & registration in 2D & 3D, medical imaging</small>
 
 ## Drone Laps: Drone-Based Autonomous Maintenance Service
 Statrup, Cofounder (May 2021 - Dec 2021)  
 + Sponsored by Korea Ministry of Science and ICT (∼ 70,000 USD)  
-+ <small>keywords : Market research, and business model design</small>
++ <small>keywords : Market research, business model design</small>
   
-## [AI diagnostic system for orthodontics](https://mylign.co.kr/){:target="_blank"}
+## [AI Diagnostic System for Orthodontics](https://mylign.co.kr/){:target="_blank"}
 Research Project (Feb 2020 - Nov 2021)  
 + As a project leader, developed an automated diagnosis software for a 3D dental model  
-+ <small>keywords : 3D classification, 3D object detection, 3D alignment, and medical imaging</small>
++ <small>keywords : 3D classification, 3D object detection, 3D alignment, medical imaging</small>
 
 ---
 # HONORS & AWARDS
