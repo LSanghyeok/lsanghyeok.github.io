@@ -72,11 +72,11 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 # Experience
 ## [MLV LAB: Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target="_blank"}  
 Graduate Student Researcher (Sep 2020 - Present)   
-+ Master & Ph.D student in Department of Computer Sciences at Korea University advised by Dr. Hyunwoo J. Kim  
++ <small>Master & Ph.D student in Department of Computer Sciences at Korea University advised by Dr. Hyunwoo J. Kim</small>  
 
 **Blood Image Analysis for the Diagnosis of Infectious Diseases and Blood Cancers**
 + <small>Collaboration with [Korea University Guro Hospital](https://guro.kumc.or.kr/kr/doctor-department/doctor/view.do?drNo=6049){:target="_blank"} (Aug 2022 - Present)</small>  
-+ <small>keywords : Object Detection, and medical imaging</small></small>
++ <small>keywords : Object Detection, and medical imaging</small>
 
 **3D Registration for Multiplex Imaging**
 + <small>Collaboration with [College of Medicine at Korea University](https://medicine.korea.ac.kr/web/www/-28?p_p_id=ProfessorInfo_WAR_professorInfoportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_ProfessorInfo_WAR_professorInfoportlet_curPage=8&_ProfessorInfo_WAR_professorInfoportlet_action=view_message&_ProfessorInfo_WAR_professorInfoportlet_infoId=02710){:target="_blank"} (July 2022 - Mar 2023)</small>  
