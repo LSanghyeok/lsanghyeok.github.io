@@ -16,8 +16,8 @@ Affiliation : [Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target=
 [![Github Badge](https://img.shields.io/badge/Github-000?style=flat&logo=github)](https://github.com/Lsanghyeok){:target="_blank"}
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217){:target="_blank"}  
 
-My research interests include efficient neural networks, data augmentation on 3D structured data, and prompt tuning. 
-Keyword : Deep Learning, Computer Vision, Data Augmentation, Prompt Tuning, Point Clouds, Efficient Neural Network
+My research interests include deep learning on 2D&3D data, such as data augmentation, efficient neural networks, and prompt learning. 
+Keywords : Deep Learning, Computer Vision, Data Augmentation, Prompt Learning, Point Clouds, Efficient Neural Network
 
 ---
 # Education
