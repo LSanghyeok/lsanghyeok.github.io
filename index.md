@@ -50,7 +50,7 @@ M.S. & Ph.D integrated program in Computer Science at Korea University.
 ## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>](https://openreview.net/forum?id=q-FRENiEP_d){:target="_blank"}
 **Conference on Neural Information Processing Systems (NeurIPS), 2022**
 ![SageMix](/assets/images/SageMix.jpg){: .open-new width="100%" height="100%"}
-+ <small>**<U>Sanghyeok Lee</U>\*, [Minkyu Jeon](https://minkyujeon.github.io/){:target="_blank"}\*, Injae Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)</small>  
++ <small>**<U>Sanghyeok Lee</U>\*, Minkyu Jeon\*, Injae Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)</small>  
 + [![SageMix Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/SageMix){:target="_blank"}
 [![SageMix Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2210.06944){:target="_blank"}
 [![SageMix Video Badge](https://img.shields.io/badge/Video-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=bLq2iuB4wZ4&t=123s){:target="_blank"}
