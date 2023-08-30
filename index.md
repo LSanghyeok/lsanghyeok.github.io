@@ -10,7 +10,7 @@ toc_sticky: true
 # Sanghyeok Lee
 ![photo](/assets/images/KakaoTalk_20220802_223215356.jpg){: .open-new width="30%" height="30%"}
 
-Hello! I am a Ph.D. student in the Department of Computer Sciences at Korea University advised by Dr. [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}.  
+Hello! I am a Ph.D. candidate in the Department of Computer Sciences at Korea University advised by Dr. [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}.  
 Email: cat0626@korea.ac.kr  
 Affiliation: [Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target="_blank"}  
 [![Github Badge](https://img.shields.io/badge/Github-000?style=flat&logo=github)](https://github.com/Lsanghyeok){:target="_blank"}
@@ -27,7 +27,7 @@ Bachelor of Science in Computer Science at Korea University
 
 ## M.S. & Ph.D. (Sep 2020 - Present)
 M.S. & Ph.D. integrated program in Computer Science at Korea University.
-+ GPA : 4.25 / 4.50 (97.1 / 100)
++ GPA : 4.24 / 4.50 (97.0 / 100)
 + Teaching Fellow: COSE474 (Deep Learning, 2020)
 + Teaching Assitant: COSE361 (Artificial Intelligence, 2021-2022)
 
@@ -74,7 +74,7 @@ M.S. & Ph.D. integrated program in Computer Science at Korea University.
 # Experience
 ## [MLV LAB: Machine Learning & Vision Lab](https://mlv.korea.ac.kr/){:target="_blank"}  
 Graduate Student Researcher (Sep 2020 - Present)   
-+ <small>Master & Ph.D. student in the Department of Computer Sciences at Korea University advised by Dr. Hyunwoo J. Kim</small>  
++ <small>Ph.D. candidate in the Department of Computer Sciences at Korea University advised by Dr. Hyunwoo J. Kim</small>  
 
 **Blood Image Analysis for the Diagnosis of Infectious Diseases and Blood Cancers**
 + <small>Collaboration with [Korea University Guro Hospital](https://guro.kumc.or.kr/kr/doctor-department/doctor/view.do?drNo=6049){:target="_blank"} (Aug 2022 - Present)</small>  
