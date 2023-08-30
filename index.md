@@ -81,7 +81,7 @@ Graduate Student Researcher (Sep 2020 - Present)
 + <small>keywords: Object Detection, and medical imaging</small>
 
 **3D Registration for Multiplex Imaging**
-+ <small>Collaboration with College of Medicine at Korea University (PI: [Sun, Woong](https://woongsun53.wixsite.com/website/about-pi){:target="_blank"}) (July 2022 - Mar 2023)</small>  
++ <small>Collaboration with [College of Medicine at Korea University](https://medicine.korea.ac.kr/kr/professor/detail.do?profSn=274){:target="_blank"} (July 2022 - Mar 2023)</small>  
 + <small>keywords: Alignment & registration in 2D & 3D, medical imaging</small>
   
 **[AI Diagnostic System for Orthodontics](https://mylign.co.kr/){:target="_blank"}**
