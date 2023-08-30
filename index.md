@@ -35,7 +35,7 @@ M.S. & Ph.D. integrated program in Computer Science at Korea University.
 # Publications
 ## [04] [<U>Read-only Prompt Optimization for Vision-Language Few-shot Learning</U>](){:target="_blank"}
 **International Conference on Computer Vision (ICCV), 2023**
-![RPO](/assets/images/RPO.PNG){: .open-new width="100%" height="100%"}
+![RPO](/assets/images/RPO.png){: .open-new width="100%" height="100%"}
 + <small>**DongJun Lee, Seokwon Song, Jihee Suh, Joonmyung Choi, <U>Sanghyeok Lee</U>, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}**</small> 
 + [![RPO Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/RPO){:target="_blank"}
 [![RPO Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/pdf/2308.14960.pdf){:target="_blank"}
