@@ -34,7 +34,6 @@ M.S. & Ph.D. integrated program in Computer Science at Korea University.
 ---
 # Publications 
 <small>(*: equal contribution)</small>
-
 ## [04] [<U>Read-only Prompt Optimization for Vision-Language Few-shot Learning</U>](){:target="_blank"}
 **International Conference on Computer Vision (ICCV), 2023**
 ![RPO](/assets/images/RPO.png){: .open-new width="100%" height="100%"}
