@@ -32,18 +32,20 @@ M.S. & Ph.D. integrated program in Computer Science at Korea University.
 + Teaching Assitant: COSE361 (Artificial Intelligence, 2021-2022)
 
 ---
-# Publications
+# Publications 
+<small>(*: equal contribution)<\small>
+
 ## [04] [<U>Read-only Prompt Optimization for Vision-Language Few-shot Learning</U>](){:target="_blank"}
 **International Conference on Computer Vision (ICCV), 2023**
 ![RPO](/assets/images/RPO.png){: .open-new width="100%" height="100%"}
-+ <small>**DongJun Lee, Seokwon Song, Jihee Suh, Joonmyung Choi, <U>Sanghyeok Lee</U>, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}**</small> 
++ <small>**DongJun Lee\*, Seokwon Song\*, Jihee Suh, Joonmyung Choi, <U>Sanghyeok Lee</U>, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}**</small> 
 + [![RPO Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/RPO){:target="_blank"}
 [![RPO Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/pdf/2308.14960.pdf){:target="_blank"}
 
 ## [03] [<U>Self-positioning Point-based Transformer for Point Cloud Understanding</U>](https://openaccess.thecvf.com/content/CVPR2023/html/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.html){:target="_blank"}
 **Conference on Computer Vision and Pattern Recognition (CVPR), 2023**
 ![SPoTr](/assets/images/SPoTr.PNG){: .open-new width="100%" height="100%"}
-+ <small>**Jinyoung Park\*, <U>Sanghyeok Lee</U>\*, Sihyeon Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)</small>
++ <small>**Jinyoung Park\*, <U>Sanghyeok Lee</U>\*, Sihyeon Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}**</small>
 + [![SPoTr Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/SPoTr){:target="_blank"}
 [![SPoTr Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2303.16450){:target="_blank"}
 [![SPoTr Video Badge](https://img.shields.io/badge/Video-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=5Q6P3LC-qI4&t=285s){:target="_blank"}
@@ -52,7 +54,7 @@ M.S. & Ph.D. integrated program in Computer Science at Korea University.
 ## [02] [<U>SageMix: Saliency-Guided Mixup for Point Clouds</U>](https://openreview.net/forum?id=q-FRENiEP_d){:target="_blank"}
 **Conference on Neural Information Processing Systems (NeurIPS), 2022**
 ![SageMix](/assets/images/SageMix.jpg){: .open-new width="100%" height="100%"}
-+ <small>**<U>Sanghyeok Lee</U>\*, Minkyu Jeon\*, Injae Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)</small>  
++ <small>**<U>Sanghyeok Lee</U>\*, Minkyu Jeon\*, Injae Kim, [Yunyang Xiong](https://pages.cs.wisc.edu/~yunyang/){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}**</small>  
 + [![SageMix Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/SageMix){:target="_blank"}
 [![SageMix Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2210.06944){:target="_blank"}
 [![SageMix Video Badge](https://img.shields.io/badge/Video-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=bLq2iuB4wZ4&t=123s){:target="_blank"}
@@ -63,7 +65,7 @@ M.S. & Ph.D. integrated program in Computer Science at Korea University.
 ## [01] [<U>Point Cloud Augmentation with Weighted Local Transformations</U>](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Point_Cloud_Augmentation_With_Weighted_Local_Transformations_ICCV_2021_paper.html){:target="_blank"}  
 **International Conference on Computer Vision (ICCV), 2021**
 ![PointWOLF](/assets/images/PointWOLF_main.png){: .open-new width="100%" height="100%"}
-+ <small>**Sihyeon Kim\*, <U>Sanghyeok Lee</U>\*, Dasol Hwang, Jaewon Lee, [Seong Jae Hwang](https://micv.yonsei.ac.kr/seongjae){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}** (*: equal contribution)</small>  
++ <small>**Sihyeon Kim\*, <U>Sanghyeok Lee</U>\*, Dasol Hwang, Jaewon Lee, [Seong Jae Hwang](https://micv.yonsei.ac.kr/seongjae){:target="_blank"}, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}**</small>  
 + [![PointWOLF Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/PointWOLF){:target="_blank"}
 [![PointWOLF Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2110.05379){:target="_blank"}
 [![PointWOLF Video Badge](https://img.shields.io/badge/Video-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=8XHzNz5MSiU){:target="_blank"}
