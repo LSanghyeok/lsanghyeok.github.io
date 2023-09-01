@@ -39,7 +39,7 @@ M.S. & Ph.D. integrated program in Computer Science at Korea University.
 ![RPO](/assets/images/RPO.png){: .open-new width="100%" height="100%"}
 + <small>**DongJun Lee\*, Seokwon Song\*, Jihee Suh, Joonmyung Choi, <U>Sanghyeok Lee</U>, [Hyunwoo J. Kim](https://www.hyunwoojkim.com/){:target="_blank"}**</small> 
 + [![RPO Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/RPO){:target="_blank"}
-[![RPO Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/pdf/2308.14960){:target="_blank"}
+[![RPO Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2308.14960){:target="_blank"}
 
 ## [03] [<U>Self-positioning Point-based Transformer for Point Cloud Understanding</U>](https://openaccess.thecvf.com/content/CVPR2023/html/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.html){:target="_blank"}
 **Conference on Computer Vision and Pattern Recognition (CVPR), 2023**
