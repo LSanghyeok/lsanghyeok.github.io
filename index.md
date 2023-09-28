@@ -41,7 +41,7 @@ M.S. & Ph.D. integrated program in Computer Science at Korea University.
 + [![RPO Code Badge](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/mlvlab/RPO){:target="_blank"}
 [![RPO Arxiv Badge](https://img.shields.io/badge/Arxiv-B31B1B?style=flat&logo=arXiv)](https://arxiv.org/abs/2308.14960){:target="_blank"}
 [![RPO Video Badge](https://img.shields.io/badge/Video-FF0000?style=flat&logo=YouTube)](https://www.youtube.com/watch?v=k3JOUCVnw00&t=102s){:target="_blank"}
-[![RPO Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](https://lsanghyeok.github.io/assets/images/RPO_poster.pdf){:target="_blank"}
+[![RPO Poster Badge](https://img.shields.io/badge/Poster-485A62?style=flat&logo=Code%20Review)](https://lsanghyeok.github.io/assets/images/RPO_poster.png){:target="_blank"}
 
 ## [03] [<U>Self-positioning Point-based Transformer for Point Cloud Understanding</U>](https://openaccess.thecvf.com/content/CVPR2023/html/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.html){:target="_blank"}
 **Conference on Computer Vision and Pattern Recognition (CVPR), 2023**
