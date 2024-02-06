@@ -115,7 +115,6 @@ Scholarship @ Korea Univ. 2016,2017,2018,2019,2020</small>
 
 ---
 # Patents
-<small>[1] "METHOD AND APPARATUS FOR READ-ONLY PROMPT LEARNING"  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hyunwoo J. Kim, Jinyoung Park, Joonmyung Choi, **Sanghyeok Lee**, Dongjun Lee, Seokwon Song, Jihee Suh  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Korean Patent (10-256355), Aug 7, 2023.
+<small>[1] "METHOD AND APPARATUS FOR READ-ONLY PROMPT LEARNING", Hyunwoo J. Kim, Jinyoung Park, Joonmyung Choi, **Sanghyeok Lee**, Dongjun Lee, Seokwon Song, Jihee Suh  
+&nbsp;&nbsp;&nbsp;&nbsp; Korean Patent (10-256355), Aug 7, 2023.
 </small>
