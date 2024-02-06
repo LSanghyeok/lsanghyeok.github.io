@@ -112,3 +112,10 @@ Scholarship @ Korea Univ. 2016,2017,2018,2019,2020</small>
 <small>[1] "3D Point Cloud and Transformer - SageMix: Saliency-Guided Mixup for Point Clouds"  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@ Korean Conference on Computer Vision (KCCV) Tutorial, Feb 2023
 </small>
+
+---
+# Patents
+<small>[1] METHOD AND APPARATUS FOR READ-ONLY PROMPT LEARNING  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hyunwoo J. Kim, Jinyoung Park, Joonmyung Choi, **Sanghyeok Lee**, Dongjun Lee, Seokwon Song, Jihee Suh  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Korean Patent (1025635500000), Aug 7, 2023.
+</small>
