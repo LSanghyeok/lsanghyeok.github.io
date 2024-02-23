@@ -121,7 +121,7 @@ Scholarship @ Korea Univ. 2016,2017,2018,2019,2020</small>
 
 ---
 # Services
-<small> Computer Vision and Pattern Recognition (CVPR) - 2023,2024  
-Advances in Neural Information Processing Systems (NeurIPS) - 2023  
-European Conference on Computer Vision (ECCV) - 2024
+<small> Reviewer @ Computer Vision and Pattern Recognition (CVPR) - 2023,2024  
+Reviewer @ Advances in Neural Information Processing Systems (NeurIPS) - 2023  
+Reviewer @ European Conference on Computer Vision (ECCV) - 2024
 </small>
